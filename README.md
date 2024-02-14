@@ -18,10 +18,6 @@ We developed a web-based application for decentralized file storing using blockc
 We are using randomly generated nonce in proof of work concept to acheive the required difficulty (diff = 3). Once peer uploads the file, the file is stored in a block including username, filesize and file data. These block gets appended to the current blockchain, which makes it impossible to edit or delete the file/block.<br /> 
 The reason to implement file storing using blockchain is its abilitiy to avoid any modification or deletion. No one can delete or corrupt our files that are stored.
 
-<h2> Project Demo </h2>
-<h3> Youtube Demo Link : https://youtu.be/Z6JiYkk8Qt8 </h3>
-
-<h2>Importance of Blockchain:</h2>
 
 Blockchain data structure is used to store digital information securely. Blockchain is an open ledger which can be accessed by multiple parties all at once. Blockchain holds various types of digital information such as transaction information, files, messages, etc. The successful implementation of blockchain holds different types of functionalities such as consensus algorithm, mining block, validation of block etc.
 
@@ -107,10 +103,4 @@ Here, issues with On-chain blockchain can be solved by using off-chain blockchai
 2. https://github.com/MoTechStore/Python-Flask-Blockchain-Based-Content-Sharing<br/>
 3. https://medium.com/@amannagpal4/how-to-create-your-own-decentralized-file-sharing-service-using-python-2e00005bdc4a
 
-<h2> Authors </h2>
 
-1. Name: Bhautik Sojitra
-Student Id: 7900140
-
-2. Name: Kabir Bhakta
-Student Id: 7900098
